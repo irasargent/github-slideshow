@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Burgundy, Burgundy, Spleep-Splap, Spla-Splur-gundy
 Use the left arrow to go back!
